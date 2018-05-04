@@ -1,2 +1,2 @@
 require "spec"
-require "../src/square-numbers"
+require "../src/squarenumbers"
