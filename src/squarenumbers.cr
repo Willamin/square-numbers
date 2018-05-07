@@ -1,6 +1,6 @@
 module SquarePackage
   class Square
-    getter side_length : Int32
+    getter side_length : Int32 = 0
 
     def initialize(@side_length); end
 
